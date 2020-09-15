@@ -122,3 +122,7 @@ security:
     resource:
       jwt:
         key-value: client-secret
+#微信公众号配置
+weixin-config:
+  app-id: wx51be26479297f13c
+  secret: 0e9b72428d30f7718e21469781d34b01
