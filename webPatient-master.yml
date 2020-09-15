@@ -168,8 +168,8 @@ notifyUrl:
   payUrl: https://boss-pre.cqmbyy.com/webPatient/order/orderPayNotify
 followUp:
   url: https://h5-pre.cqmbyy.com
-  templateConsultId: spqvl0IOrGCj7DuF-bjDkToK-Me1o6gJ9IHk2RE6SAM  #医生问询模板 patient/doctor
-  templateRemarkId: t9gNrJoNzzf0ciDOqDWEUon29dq8xLGXTl40bw1Iw5g #关注成功模板 暂未使用
+  templateConsultId: s3YbnX1n1ioD5S7cqpF5u1yR69wwfWlqRjV2Shrzt9w  #医生问询模板 patient/doctor
+  templateRemarkId: TGz549Ph8ce2fWS5SkKHTAHiujunvZJKFGew7f7WVU0 #关注成功模板 暂未使用
   followRemindOperatingProcedures: 关注公众号，点击以下链接  #操作流程 patient
   followRemindTel: 023-63208687  #电话 patient
   followRemindContent: 欢迎关注铭博互联网医院，诚挚邀请您观看李启富教授直播，欢迎您点击观看。  #内容 patient
