@@ -176,10 +176,10 @@ followUp:
   followRemindUrl: https://www.cqconquer.com/app/index.php?i=2&c=entry&rid=66&do=index&m=wxz_wzbagent  #链接 patient
 #微信公众号配置
 weixin-config:
-  app-id: wx51be26479297f13c
-  secret: 0e9b72428d30f7718e21469781d34b01
-  mch-id: 1265493201
-  api-key: Wkmhs2015Wkyy201518600697266yzlz
+  app-id: wxe4c3bcb946be4e92
+  secret: 4df88c54843fd3ed61cc0d460047d1eb
+  mch-id: 1553312401
+  api-key: 260223992b0c4515a0362d8655ba2020
   ydyy-app-id: wxabe812c9cfd06f10
   ydyy-mch-id: 1553312401
   ydyy-api-key: 260223992b0c4515a0362d8655ba2020

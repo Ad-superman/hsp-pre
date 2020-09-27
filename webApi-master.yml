@@ -200,8 +200,8 @@ followUp:
   taskTime: 15
 #微信公众号配置  
 weixin-config:
-  app-id: wx51be26479297f13c
-  mch-id: 1265493201
-  api-key: Wkmhs2015Wkyy201518600697266yzlz  
+  app-id: wxe4c3bcb946be4e92
+  mch-id: 1553312401
+  api-key: 260223992b0c4515a0362d8655ba2020
   
   

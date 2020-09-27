@@ -124,5 +124,5 @@ security:
         key-value: client-secret
 #微信公众号配置
 weixin-config:
-  app-id: wx51be26479297f13c
-  secret: 0e9b72428d30f7718e21469781d34b01
+  app-id: wxe4c3bcb946be4e92
+  secret: 4df88c54843fd3ed61cc0d460047d1eb
