@@ -4,8 +4,11 @@ server:
 
 ##数据库连接信息
 spring:
-  #  profiles:
-  #    active: dev
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 30MB
+      max-request-size: 100MB
   cloud:
     gateway:
       discovery:
