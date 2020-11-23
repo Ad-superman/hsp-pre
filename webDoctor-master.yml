@@ -173,7 +173,7 @@ security:
         key-value: client-secret
 followUp:
   url: https://h5-pre.cqmbyy.com
-  imUrl: https://im-beta.wkmhs.com
+  imUrl: https://h5-pre.cqmbyy.com
   templatePrescriptionId: 309h09hSL6DnsH3p49gLs8mooFB-hR-aL-5Pd-FDO68 #处方审核通过提醒模板/处方生成通知模板 doctor/api
   templateMessageId: yg_lK4lk7xHv8JrrlVFyzIu0zQPdhOfu4JUB-LHM7W8 #随访提醒模板 doctor
   templateConsultId: s3YbnX1n1ioD5S7cqpF5u1yR69wwfWlqRjV2Shrzt9w  #医生问询模板 patient/doctor
