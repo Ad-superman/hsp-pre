@@ -171,6 +171,7 @@ security:
         key-value: client-secret
 notifyUrl:
   payUrl: https://boss-pre.cqmbyy.com/webPatient/order/orderPayNotify
+  aliAppletPayNotifyUrl: https://boss-beta.cqmbyy.com/webPatient/order/orderAliAppletsPayNotify
 followUp:
   url: https://h5-pre.cqmbyy.com
   templateConsultId: s3YbnX1n1ioD5S7cqpF5u1yR69wwfWlqRjV2Shrzt9w  #医生问询模板 patient/doctor
